@@ -27,7 +27,14 @@ This is a procedural spider generator using geo nodes featuring thorough customi
   * Fang rotation
   * Pack UVs?: Whether to pack all UV islands into one UV space or to let each mesh occupy one whole UV space
   * Detail level: how much geometry detail (for LODs)
+ 
+Built in blender version 5.2.2
 
+Watch out for high levels of geometry, anything beyond 5 detail levels is unnecessary and will slow your machine down
+High carapace offset will make the fang placement look scuffed
+
+How to use:
+Install the zip and unwrap, open the blend file and set the parameters you want. Duplicate the mesh and change the detail level for LODs. Export as fbx and import into your game engine of choice.
 
 
 
