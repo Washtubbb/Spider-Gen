@@ -1,4 +1,4 @@
-# **Spider Gen Documentation**
+# **Stylized Spider Generator**
 
 This is a procedural spider generator using geo nodes featuring thorough customization options, LODs and automatic UVs
 
